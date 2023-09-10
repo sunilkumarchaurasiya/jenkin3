@@ -1,0 +1,3 @@
+mkdir test
+sudo rm -rf test
+mkdir test
