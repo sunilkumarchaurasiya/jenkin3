@@ -1,2 +1,3 @@
+mkdir test2
 sudo rm -rf test2
 mkdir test2
