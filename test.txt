@@ -1,1 +1,2 @@
+sudo rm -rf test2
 mkdir test2
